@@ -1,1 +1,5 @@
+# Credentials for API
 creds.py
+
+# Python default files & directories
+__pycache__
