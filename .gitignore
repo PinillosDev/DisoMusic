@@ -3,3 +3,6 @@ creds.py
 
 # Python default files & directories
 __pycache__
+
+# XML document
+xml_api_response.xml
